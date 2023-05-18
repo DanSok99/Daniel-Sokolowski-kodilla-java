@@ -13,8 +13,6 @@ build/
 *.iml
 *.ipr
 out/
-C:\Users\zaaha\OneDrive\Pulpit\dev\koddilla-course\kodilla-testing\src\main\java\com\kodilla\testing\shape
-C:\Users\zaaha\OneDrive\Pulpit\dev\koddilla-course\kodilla-testing\src\test\java\com\kodilla\testing\shape
 !**/src/main/**/out/
 !**/src/test/**/out/
 
