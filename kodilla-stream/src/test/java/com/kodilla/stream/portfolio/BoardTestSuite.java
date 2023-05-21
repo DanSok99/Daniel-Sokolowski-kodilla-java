@@ -163,5 +163,6 @@ class BoardTestSuite {
         assertEquals(30, days);
         assertEquals(3,tasks);
         assertEquals(10, average);
+
     }
 }
